@@ -1,0 +1,8 @@
+# 忽略大檔/輸出
+*.mov
+*.mp4
+*.iso
+*.zip
+data/
+outputs/
+__pycache__/
