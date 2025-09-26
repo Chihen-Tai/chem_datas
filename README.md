@@ -42,7 +42,7 @@
 1. 🚀 點選 **Code → Download ZIP**  
 2. 🎯 或直接 clone：
    ```bash
-   git clone https://github.com/username/NTHU-Chemistry-Exam.git
+   git clone https://github.com/Chihen-Tai/chem_datas.git
 3. 打開 PDF，享受 🎇 燈會般繽紛的考古題之旅！
 
 💡 <span style="color:hotpink">Tips</span>
@@ -53,6 +53,6 @@
 
 
 <h2 align="center"> 🎇 <span style="color:deeppink">Good Luck & Have Fun!</span> 🎇 </h2> <p align="center"> <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300" /> </p>
-<p align="center"> ✨ 如果覺得這份考古題幫到你，記得來一個 <img src="https://img.shields.io/badge/⭐-Star%20This%20Repo-yellow?style=for-the-badge" /> 你的支持就是我繼續整理的動力！ 🔥 </p> ```
+<p align="center"> ✨ 如果覺得這份考古題幫到你，記得來一個 <img src="https://img.shields.io/badge/⭐-Star%20This%20Repo-yellow?style=for-the-badge" /> 你的支持就是我繼續整理的動力！ 🔥 </p> 
 
 這chatGPT生成的
