@@ -28,7 +28,7 @@
 1. 點選上方 **Code → Download ZIP**  
 2. 或用 Git clone ⬇️  
    ```bash
-   git clone https://github.com/username/NTHU-Chemistry-Exam.git
+   git clone https://github.com/Chihen-Tai/chem_datas.git
 
 
 這chatGPT生成的
